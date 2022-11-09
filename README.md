@@ -18,6 +18,7 @@
 <li>프로젝트명 : Work Peple</li><br>
 <li>기획의도 : 누구나 쉽고 간편하게 사용할 수 있는 그룹웨어</li><br>
 <li>팀 소개</li>
+<img src="">
 <hr>
 <li>개발 환경</li>
 
