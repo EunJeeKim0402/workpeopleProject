@@ -21,4 +21,5 @@
 <img src="역할분담.JPG">
 <hr>
 <li>개발 환경</li>
+<img src="개발환경.JPG">
 
