@@ -24,4 +24,4 @@
 <hr>
 <h2 id="act">:office: 주요 기능</h2>
 <img src="세부기능 사용자.JPG">
-<img src="세부기능 .JPG">
+<img src="세부기능 관리자.JPG">
