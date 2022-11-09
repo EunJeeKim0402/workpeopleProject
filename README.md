@@ -29,3 +29,4 @@
 <hr>
 <h2 id="function">:office: 구현 기능</h2>
 <h3>:heavy_check_mark: 메인페이지</h3>
+<img src="메인화면.gif">
