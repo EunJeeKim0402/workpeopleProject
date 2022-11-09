@@ -4,7 +4,7 @@
 <ol>
  <li><a href="#outline">개요</a></li>
  <li><a href="#act">주요 기능</a></li>
- <li><a href="">구현 기능</a></li>
+ <li><a href="function">구현 기능</a></li>
   <ul>
    <li><a href="">메인화면 프로젝트 리스트조회</a></li>
    <li><a href="">내 프로젝트 조회</a></li>
@@ -25,3 +25,7 @@
 <h2 id="act">:office: 주요 기능</h2>
 <img src="세부기능 사용자.JPG">
 <img src="세부기능 관리자.JPG">
+<br>
+<hr>
+<h2 id="function">:office: 구현 기능</h2>
+<h3>:heavy_check_mark: 메인페이지</h3>
