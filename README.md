@@ -4,10 +4,10 @@
 <ol>
  <li><a href="#outline">개요</a></li>
  <li><a href="#act">주요 기능</a></li>
- <li><a href="function">구현 기능</a></li>
+ <li><a href="#unction">구현 기능</a></li>
   <ul>
-   <li><a href="">메인화면 프로젝트 리스트조회</a></li>
-   <li><a href="">내 프로젝트 조회</a></li>
+   <li><a href="#main">메인화면 프로젝트 리스트조회</a></li>
+   <li><a href="#myList">내 프로젝트 조회</a></li>
    <li><a href="">프로젝트 게시물관리</a></li>
    <li><a href="">프로젝트 관리자 승인</a></li>
   </ul>
@@ -28,7 +28,10 @@
 <br>
 <hr>
 <h2 id="function">:office: 구현 기능</h2>
-<h3>:heavy_check_mark: 메인페이지 프로젝트 리스트조회</h3>
+<h3 id="main">:heavy_check_mark: 메인페이지 프로젝트 리스트조회</h3>
 <img src="메인화면.gif">
-<h3>:heavy_check_mark: 내 프로젝트 조회</h3>
+<h3 id="myList">:heavy_check_mark: 내 프로젝트 조회</h3>
 <img src="내프로젝트조회.gif">
+<li>프로젝트리스트조회</li>
+<li>페이징처리</li>
+<li>검색기능</li>
