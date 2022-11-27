@@ -28,5 +28,7 @@
 <br>
 <hr>
 <h2 id="function">:office: 구현 기능</h2>
-<h3>:heavy_check_mark: 메인페이지</h3>
+<h3>:heavy_check_mark: 메인페이지 프로젝트 리스트조회</h3>
 <img src="메인화면.gif">
+<h3>:heavy_check_mark: 내 프로젝트 조회</h3>
+<img src="내프로젝트조회.gif">
