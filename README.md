@@ -8,10 +8,11 @@
   <ul>
    <li><a href="#main">메인화면 프로젝트 리스트조회</a></li>
    <li><a href="#myList">내 프로젝트 조회</a></li>
-   <li><a href="">프로젝트 게시물관리</a></li>
-   <li><a href="">프로젝트 관리자 승인</a></li>
+   <li><a href="#proDetail">프로젝트 게시물관리</a></li>
+   <li><a href="#proApprove">프로젝트 관리자 승인</a></li>
   </ul>
  <li><a href="">Document</a></li>
+ <li><a href="">느낀점/소감</a></li>
 </ol>
 <hr>
 <h2 id="outline">:office: 개요</h2>
@@ -35,7 +36,10 @@
 <li>프로젝트리스트조회</li>
 <li>페이징처리</li>
 <li>검색기능</li>
-<h3 id="myList">:heavy_check_mark: 프로젝트 게시물관리</h3>
+<h3 id="proDetail">:heavy_check_mark: 프로젝트 게시물관리</h3>
 <img src="프로젝트관리.gif">
 <li>프로젝트 등록/수정/삭제</li>
 <li>댓글 등록 및 조회수/댓글수 확인 가능</li>
+<h3 id="proApprove">:heavy_check_mark: 프로젝트 관리자 승인</h3>
+<img src="프로젝트승인.gif">
+<li>승인이 필요한 프로젝트에 가입을 신청하면 관리자가 승인 한 후 참여 가능</li>
